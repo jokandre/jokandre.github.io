@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2017/01/27/craft-beer/</loc>
+<loc>/blog/2017/01/27/craft-beer/</loc>
 <lastmod>2017-01-27T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/archive/</loc>
+<loc>/blog/archive/</loc>
 </url>
 <url>
-<loc>/category/brunch/</loc>
+<loc>/blog/category/brunch/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/blog/</loc>
 </url>
 <url>
-<loc>/category/random/</loc>
+<loc>/blog/category/random/</loc>
 </url>
 </urlset>
