@@ -1,0 +1,113 @@
+{
+  "ch_en": [
+    {
+      "traditional": "前天",
+      "simplified": "前天",
+      "pronunciation": "qian2 tian1",
+      "definitions": "the day before yesterday",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "昨天",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "明天",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "今天",
+      "simplified": "今天",
+      "pronunciation": "jin1 tian1",
+      "definitions": "today/at the present/now",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "她們",
+      "simplified": "她们",
+      "pronunciation": "ta1 men5",
+      "definitions": "they/them (for females)",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "他們",
+      "simplified": "他们",
+      "pronunciation": "ta1 men5",
+      "definitions": "they",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "它們",
+      "simplified": "它们",
+      "pronunciation": "ta1 men5",
+      "definitions": "they (for inanimate objects)",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "她",
+      "simplified": "她",
+      "pronunciation": "ta1",
+      "definitions": "she",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "他",
+      "simplified": "他",
+      "pronunciation": "ta1",
+      "definitions": "he or him/(used for either sex when the sex is unknown or unimportant)/(used before sb's name for emphasis)/(used as a meaningless mock object)/other/another",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "你們",
+      "simplified": "你们",
+      "pronunciation": "ni3 men5",
+      "definitions": "you (plural)",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "你",
+      "simplified": "你",
+      "pronunciation": "ni3",
+      "definitions": "you (informal, as opposed to courteous 您[nin2])",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "我們",
+      "simplified": "我们",
+      "pronunciation": "wo3 men5",
+      "definitions": "we/us/ourselves/our",
+      "tags":["starter","book1"]
+    },
+    {
+      "traditional": "我",
+      "simplified": "我",
+      "pronunciation": "wo3",
+      "definitions": "I/me/my",
+      "tags":["starter","book1"]
+    }
+    ,
+    {
+      "traditional": "愛",
+      "pronunciation": "ai4",
+      "tags":["book1"]
+    }
+    ,
+    {
+      "traditional": "班",
+      "pronunciation": "ban1",
+      "tags":["book1"]
+    }
+    ,
+    {
+      "traditional": "报",
+      "pronunciation": "bao4",
+      "tags":["book1"]
+    }
+    ,
+    {
+      "traditional": "半",
+      "pronunciation": "ban4",
+      "tags":["book1"]
+    }
+  ]
+}
