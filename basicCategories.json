@@ -1,3 +1,5 @@
-[{"name":"Personal Deck", "id":"personaldeck"},{"name":"Book 1", "id":"book1"}, 
-      {"name":"Book 2", "id":"book2"}, {"name":"Book 3", "id":"book3"}, 
-      {"name":"Book 4", "id":"book4"}]
+[
+      {"name":"Personal Deck", "id":"personaldeck"},
+      {"name":"Book 1", "id":"book1"}, 
+      
+]
