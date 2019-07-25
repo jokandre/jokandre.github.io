@@ -1,3290 +1,3458 @@
 {
-    "ch_en": [
-        {
-            "orthography": "愛",
-            "pronunciation": "ai4",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "班",
-            "pronunciation": "ban1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "報",
-            "pronunciation": "bao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "半",
-            "pronunciation": "ban4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "辦",
-            "pronunciation": "ban4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "杯",
-            "pronunciation": "bei1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "本",
-            "pronunciation": "ben3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "杯子",
-            "pronunciation": "bei1 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "筆",
-            "pronunciation": "bi3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "錶",
-            "pronunciation": "biao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "邊",
-            "pronunciation": "bian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "別",
-            "pronunciation": "bie2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "別的",
-            "pronunciation": "bie2 de5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "筆試",
-            "pronunciation": "bi3 shi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "伯伯",
-            "pronunciation": "bo2 bo5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "不",
-            "pronunciation": "bu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "不一定",
-            "pronunciation": "bu4 yi1 ding4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "不錯",
-            "pronunciation": "bu4 cuo4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "菜",
-            "pronunciation": "cai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "差",
-            "pronunciation": "cha1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "茶",
-            "pronunciation": "cha2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "差不多",
-            "pronunciation": "cha4 bu5 duo1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "唱",
-            "pronunciation": "chang4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "常常",
-            "pronunciation": "chang2 chang2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "車",
-            "pronunciation": "che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "吃",
-            "pronunciation": "chi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "穿",
-            "pronunciation": "chuan1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "船",
-            "pronunciation": "chuan2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "床",
-            "pronunciation": "chuang2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "春季",
-            "pronunciation": "chun1 ji4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "從",
-            "pronunciation": "cong2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "春天",
-            "pronunciation": "chun1 tian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "錯",
-            "pronunciation": "cuo4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "大",
-            "pronunciation": "da4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "大樓",
-            "pronunciation": "da4 lou2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "大學",
-            "pronunciation": "da4 xue2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "到",
-            "pronunciation": "dao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "的",
-            "pronunciation": "de5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "得",
-            "pronunciation": "de5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "德國",
-            "pronunciation": "De2 guo2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "等",
-            "pronunciation": "deng3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "地",
-            "pronunciation": "di4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "點",
-            "pronunciation": "dian3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "店",
-            "pronunciation": "dian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "電視",
-            "pronunciation": "dian4 shi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "電視機",
-            "pronunciation": "dian4 shi4 ji1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "電影",
-            "pronunciation": "dian4 ying3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "弟弟",
-            "pronunciation": "di4 di5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "地方",
-            "pronunciation": "di4 fang5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "底下",
-            "pronunciation": "di3 xia5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "懂",
-            "pronunciation": "dong3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "冬季",
-            "pronunciation": "dong1 ji4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "冬天",
-            "pronunciation": "dong1 tian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "東西",
-            "pronunciation": "dong1 xi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "都",
-            "pronunciation": "dou1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "對",
-            "pronunciation": "dui4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "對不起",
-            "pronunciation": "dui4 bu5 qi3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "對了",
-            "pronunciation": "dui4 le5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "多",
-            "pronunciation": "duo1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "多少",
-            "pronunciation": "duo1 shao5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "兒",
-            "pronunciation": "er2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "兒子",
-            "pronunciation": "er2 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "法國",
-            "pronunciation": "Fa3 guo2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "飯",
-            "pronunciation": "fan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "方便",
-            "pronunciation": "fang1 bian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "房間",
-            "pronunciation": "fang2 jian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "飯館",
-            "pronunciation": "fan4 guan3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "房子",
-            "pronunciation": "fang2 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "飯廳",
-            "pronunciation": "fan4 ting1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "法文",
-            "pronunciation": "fa3 wen2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "飛",
-            "pronunciation": "fei1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "飛機",
-            "pronunciation": "fei1 ji1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "分",
-            "pronunciation": "fen1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "風景",
-            "pronunciation": "feng1 jing3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "付",
-            "pronunciation": "fu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "附近",
-            "pronunciation": "fu4 jin4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "父母",
-            "pronunciation": "fu4 mu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "父親",
-            "pronunciation": "fu4 qin5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "該",
-            "pronunciation": "gai1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "剛",
-            "pronunciation": "gang1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "給",
-            "pronunciation": "gei3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "跟",
-            "pronunciation": "gen1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "公車",
-            "pronunciation": "gong1 che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "公共汽車",
-            "pronunciation": "gong1 gong4 qi4 che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "公司",
-            "pronunciation": "gong1 si1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "夠",
-            "pronunciation": "gou4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "狗",
-            "pronunciation": "gou3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "貴",
-            "pronunciation": "gui4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "貴姓",
-            "pronunciation": "gui4 xing4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "國",
-            "pronunciation": "guo2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "國家",
-            "pronunciation": "guo2 jia1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "還",
-            "pronunciation": "hai2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "還好",
-            "pronunciation": "hai2 hao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "還是",
-            "pronunciation": "hai2 shi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "孩子",
-            "pronunciation": "hai2 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "好",
-            "pronunciation": "hao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "號",
-            "pronunciation": "hao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "好幾",
-            "pronunciation": "hao3 ji3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "好久不見",
-            "pronunciation": "hao3 jiu3 bu5 jian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "好看",
-            "pronunciation": "hao3 kan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "好聽",
-            "pronunciation": "hao3 ting1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "喝",
-            "pronunciation": "he1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "很",
-            "pronunciation": "hen3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "後",
-            "pronunciation": "hou4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "後面",
-            "pronunciation": "hou4 mian5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "話",
-            "pronunciation": "hua4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "畫畫",
-            "pronunciation": "hua4 hua4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "畫家",
-            "pronunciation": "hua4 jia1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "華人",
-            "pronunciation": "hua2 ren2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "回",
-            "pronunciation": "hui2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "會",
-            "pronunciation": "hui4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "回來",
-            "pronunciation": "hui2 lai5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "火",
-            "pronunciation": "huo3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "貨",
-            "pronunciation": "huo4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "火車",
-            "pronunciation": "huo3 che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "站",
-            "pronunciation": "zhan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "機",
-            "pronunciation": "ji1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "急",
-            "pronunciation": "ji2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "季",
-            "pronunciation": "ji4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "家",
-            "pronunciation": "jia1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "間",
-            "pronunciation": "jian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "見",
-            "pronunciation": "jian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "件",
-            "pronunciation": "jian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "教",
-            "pronunciation": "jiao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "叫",
-            "pronunciation": "jiao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "覺",
-            "pronunciation": "jue2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "覺",
-            "pronunciation": "jiao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "教書",
-            "pronunciation": "jiao1 shu1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "姐姐",
-            "pronunciation": "jie3 jie5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "節",
-            "pronunciation": "jie2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "節日",
-            "pronunciation": "jie2 ri4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "季節",
-            "pronunciation": "ji4 jie2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "近",
-            "pronunciation": "jin4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "今年",
-            "pronunciation": "jin1 nian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "今天",
-            "pronunciation": "jin1 tian1",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "久",
-            "pronunciation": "jiu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "就",
-            "pronunciation": "jiu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "九",
-            "pronunciation": "jiu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "舊",
-            "pronunciation": "jiu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "酒",
-            "pronunciation": "jiu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "覺得",
-            "pronunciation": "jue2 de5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "開",
-            "pronunciation": "kai1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "開車",
-            "pronunciation": "kai1 che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "看",
-            "pronunciation": "kan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "看到",
-            "pronunciation": "kan4 dao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "看見",
-            "pronunciation": "kan4 jian5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "考",
-            "pronunciation": "kao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "考試",
-            "pronunciation": "kao3 shi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "課",
-            "pronunciation": "ke4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "刻",
-            "pronunciation": "ke4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "客廳",
-            "pronunciation": "ke4 ting1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "可以",
-            "pronunciation": "ke3 yi3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "快",
-            "pronunciation": "kuai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "塊",
-            "pronunciation": "kuai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "來",
-            "pronunciation": "lai2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "老師",
-            "pronunciation": "lao3 shi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "了",
-            "pronunciation": "le5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "累",
-            "pronunciation": "lei3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "冷",
-            "pronunciation": "leng3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "離",
-            "pronunciation": "li2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "兩",
-            "pronunciation": "liang3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "輛",
-            "pronunciation": "liang4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "裡面",
-            "pronunciation": "li3 mian5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "零",
-            "pronunciation": "ling2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "零錢",
-            "pronunciation": "ling2 qian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "六",
-            "pronunciation": "liu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "樓",
-            "pronunciation": "lou2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "路",
-            "pronunciation": "lu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "樓下",
-            "pronunciation": "lou2 xia4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "樓上",
-            "pronunciation": "lou2 shang4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "旅館",
-            "pronunciation": "guan3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "旅行",
-            "pronunciation": "xing2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "嗎",
-            "pronunciation": "ma5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "買",
-            "pronunciation": "mai3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "賣",
-            "pronunciation": "mai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "媽媽",
-            "pronunciation": "ma1 ma5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "慢",
-            "pronunciation": "man4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "忙",
-            "pronunciation": "mang2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "貓",
-            "pronunciation": "mao1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "毛",
-            "pronunciation": "mao2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "馬上",
-            "pronunciation": "ma3 shang4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "沒",
-            "pronunciation": "mei2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "美",
-            "pronunciation": "mei3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "每",
-            "pronunciation": "mei3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "妹妹",
-            "pronunciation": "mei4 mei5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "沒問題",
-            "pronunciation": "mei2 wen4 ti2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "門",
-            "pronunciation": "men2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "面",
-            "pronunciation": "mian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "明天",
-            "pronunciation": "ming2 tian1",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "門口",
-            "pronunciation": "men2 kou3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "明年",
-            "pronunciation": "ming2 nian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "母",
-            "pronunciation": "mu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "母親",
-            "pronunciation": "mu3 qin5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "那",
-            "pronunciation": "na3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "哪裡",
-            "pronunciation": "na3 li5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "難",
-            "pronunciation": "nan2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "呢",
-            "pronunciation": "ne5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "那邊",
-            "pronunciation": "na4 bian5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "那些",
-            "pronunciation": "na4 xie1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "能",
-            "pronunciation": "neng2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "你",
-            "pronunciation": "ni3",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "年",
-            "pronunciation": "nian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "念",
-            "pronunciation": "nian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "念書",
-            "pronunciation": "nian4 shu1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "你們",
-            "pronunciation": "ni3 men5",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "女",
-            "pronunciation": "nü3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "女孩子",
-            "pronunciation": "hai2 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "女朋友",
-            "pronunciation": "peng2 you5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "歐洲",
-            "pronunciation": "Ou5 zhou1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "旁邊",
-            "pronunciation": "pang2 bian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "朋友",
-            "pronunciation": "peng2 you5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "便宜",
-            "pronunciation": "pian2 yi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "票",
-            "pronunciation": "piao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "七",
-            "pronunciation": "qi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "期",
-            "pronunciation": "qi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "千",
-            "pronunciation": "qian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "錢",
-            "pronunciation": "qian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "前",
-            "pronunciation": "qian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "前面",
-            "pronunciation": "qian2 mian5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "汽車",
-            "pronunciation": "qi4 che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "騎車",
-            "pronunciation": "qi2 che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "起床",
-            "pronunciation": "qi3 chuang2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "請",
-            "pronunciation": "qing3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "親",
-            "pronunciation": "qin1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "請問",
-            "pronunciation": "qing3 wen4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "坐",
-            "pronunciation": "zuo4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "座",
-            "pronunciation": "zuo4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "秋季",
-            "pronunciation": "qiu1 ji4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "去",
-            "pronunciation": "qu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "去年",
-            "pronunciation": "qu4 nian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "熱",
-            "pronunciation": "re4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "人",
-            "pronunciation": "ren2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "日本",
-            "pronunciation": "Ri4 ben3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "容易",
-            "pronunciation": "rong2 yi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "三",
-            "pronunciation": "san1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "上",
-            "pronunciation": "shang4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "上班",
-            "pronunciation": "shang4 ban1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "商店",
-            "pronunciation": "shang1 dian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "上課",
-            "pronunciation": "shang4 ke4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "上面",
-            "pronunciation": "shang4 mian5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "上午",
-            "pronunciation": "shang4 wu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "少",
-            "pronunciation": "shao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "誰",
-            "pronunciation": "shei2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "什麼",
-            "pronunciation": "shen2 me5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "什麼時候",
-            "pronunciation": "shen2 me5 shi2 hou5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "生意",
-            "pronunciation": "sheng1 yi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "十",
-            "pronunciation": "shi2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "事",
-            "pronunciation": "shi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "式",
-            "pronunciation": "shi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "時候",
-            "pronunciation": "shi2 hou5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "時間",
-            "pronunciation": "shi2 jian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "書",
-            "pronunciation": "shu1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "書店",
-            "pronunciation": "shu1 dian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "書法",
-            "pronunciation": "shu1 fa3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "書房",
-            "pronunciation": "shu1 fang2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "水",
-            "pronunciation": "shui3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "睡",
-            "pronunciation": "shui4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "睡覺",
-            "pronunciation": "shui4 jiao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "說",
-            "pronunciation": "shuo1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "說話",
-            "pronunciation": "shuo1 hua4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "書桌",
-            "pronunciation": "shu1 zhuo1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "四",
-            "pronunciation": "si4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "所",
-            "pronunciation": "suo3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "所以",
-            "pronunciation": "suo3 yi3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "他",
-            "pronunciation": "ta1",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "她",
-            "pronunciation": "ta1",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "太",
-            "pronunciation": "tai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "臺灣",
-            "pronunciation": "Tai2 wan1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "太太",
-            "pronunciation": "tai4 tai5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "天氣",
-            "pronunciation": "tian1 qi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "跳舞",
-            "pronunciation": "tiao4 wu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "聽",
-            "pronunciation": "ting1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "停",
-            "pronunciation": "ting2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "停車",
-            "pronunciation": "ting2 che1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "聽說",
-            "pronunciation": "ting1 shuo1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "圖書館",
-            "pronunciation": "tu2 shu1 guan3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "外",
-            "pronunciation": "wai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "外國",
-            "pronunciation": "wai4 guo2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "外面",
-            "pronunciation": "wai4 mian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "外文",
-            "pronunciation": "wai4 wen2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "晚",
-            "pronunciation": "wan3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "萬",
-            "pronunciation": "wan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "晚飯",
-            "pronunciation": "wan3 fan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "王",
-            "pronunciation": "Wang2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "晚上",
-            "pronunciation": "wan3 shang5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "玩",
-            "pronunciation": "wan2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "位",
-            "pronunciation": "wei4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "為什麼",
-            "pronunciation": "wei4 shen2 me5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "文",
-            "pronunciation": "wen2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "問",
-            "pronunciation": "wen4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "問題",
-            "pronunciation": "wen4 ti2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "我",
-            "pronunciation": "wo3",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "我們",
-            "pronunciation": "wo3 men5",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "五",
-            "pronunciation": "wu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "午",
-            "pronunciation": "wu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "午飯",
-            "pronunciation": "wu3 fan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "中飯",
-            "pronunciation": "zhong1 fan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "屋子",
-            "pronunciation": "wu1 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "下",
-            "pronunciation": "xia4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "夏季",
-            "pronunciation": "xia4 ji4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "下課",
-            "pronunciation": "xia4 ke4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "下面",
-            "pronunciation": "xia4 mian5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "像片",
-            "pronunciation": "xiang4 pian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "想",
-            "pronunciation": "xiang3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "相機",
-            "pronunciation": "xiang4 ji1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "先生",
-            "pronunciation": "xian1 sheng5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "現在",
-            "pronunciation": "xian4 zai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "小",
-            "pronunciation": "xiao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "小姐",
-            "pronunciation": "xiao3 jie3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "小學",
-            "pronunciation": "xiao3 xue2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "夏天",
-            "pronunciation": "xia4 tian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "下午",
-            "pronunciation": "xia4 wu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "寫",
-            "pronunciation": "xie3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "謝謝",
-            "pronunciation": "xie4 xie5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "寫字",
-            "pronunciation": "xie3 zi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "喜歡",
-            "pronunciation": "xi3 huan5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "新",
-            "pronunciation": "Xin1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "行",
-            "pronunciation": "xing2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "姓",
-            "pronunciation": "xing4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "星期",
-            "pronunciation": "xing1 qi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "新年",
-            "pronunciation": "xin1 nian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "休息",
-            "pronunciation": "xiu1 xi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "學",
-            "pronunciation": "xue2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "學期",
-            "pronunciation": "xue2 qi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "學生",
-            "pronunciation": "xue2 sheng5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "學校",
-            "pronunciation": "xue2 xiao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "要",
-            "pronunciation": "yao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "也",
-            "pronunciation": "ye3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "夜",
-            "pronunciation": "ye4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "夜裡",
-            "pronunciation": "ye4 li5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一",
-            "pronunciation": "yi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "億",
-            "pronunciation": "yi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一點",
-            "pronunciation": "yi1 dian3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一定",
-            "pronunciation": "yi1 ding4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "衣服",
-            "pronunciation": "yi1 fu5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一共",
-            "pronunciation": "yi1 gong4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "已經",
-            "pronunciation": "yi3 jing1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一塊",
-            "pronunciation": "yi1 kuai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "應該",
-            "pronunciation": "ying1 gai1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "英國",
-            "pronunciation": "Ying1 guo2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "英文",
-            "pronunciation": "Ying1 wen2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "因為",
-            "pronunciation": "yin1 wei5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一起",
-            "pronunciation": "yi1 qi3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一下",
-            "pronunciation": "yi1 xia4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "意思",
-            "pronunciation": "yi4 si5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "一些",
-            "pronunciation": "yi1 xie1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "椅子",
-            "pronunciation": "yi3 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "有",
-            "pronunciation": "you3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "有的",
-            "pronunciation": "you3 de5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "有名",
-            "pronunciation": "you3 ming2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "有錢",
-            "pronunciation": "you3 qian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "有一點兒",
-            "pronunciation": "you3 yi1 dian3 r5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "有意思",
-            "pronunciation": "you3 yi4 si5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "雨",
-            "pronunciation": "yu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "遠",
-            "pronunciation": "yuan3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "月",
-            "pronunciation": "yue4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "雨季",
-            "pronunciation": "yu3 ji4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "在",
-            "pronunciation": "zai4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "再見",
-            "pronunciation": "zai4 jian4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "早",
-            "pronunciation": "zao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "早餐",
-            "pronunciation": "zao3 can1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "早上",
-            "pronunciation": "zao3 shang5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "怎麼",
-            "pronunciation": "zen3 me5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "怎麼辦",
-            "pronunciation": "zen3 me5 ban4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "怎麼樣",
-            "pronunciation": "zen3 me5 yang4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "找",
-            "pronunciation": "zhao3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "照",
-            "pronunciation": "zhao4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "著急",
-            "pronunciation": "zhao2 ji2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "找錢",
-            "pronunciation": "zhao3 qian2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "照相機",
-            "pronunciation": "zhao4 xiang4 ji1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "這",
-            "pronunciation": "zhe4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "這邊",
-            "pronunciation": "zhe4 bian1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "這些",
-            "pronunciation": "zhe4 xie1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "這裡",
-            "pronunciation": "zhe4 li3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "真",
-            "pronunciation": "zhen1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "枝",
-            "pronunciation": "zhi1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "知道",
-            "pronunciation": "zhi1 dao5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "種",
-            "pronunciation": "zhong3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "中國",
-            "pronunciation": "Zhong1 guo2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "鐘",
-            "pronunciation": "zhong1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "中秋節",
-            "pronunciation": "Zhong1 qiu1 jie2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "鐘頭",
-            "pronunciation": "zhong1 tou2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "中文",
-            "pronunciation": "Zhong1 wen2",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "中午",
-            "pronunciation": "zhong1 wu3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "住",
-            "pronunciation": "zhu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "桌",
-            "pronunciation": "zhuo1",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "桌子",
-            "pronunciation": "zhuo1 zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "子",
-            "pronunciation": "zi5",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "走",
-            "pronunciation": "zou3",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "走路",
-            "pronunciation": "zou3 lu4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "最",
-            "pronunciation": "zui4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "最近",
-            "pronunciation": "zui4 jin4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "做",
-            "pronunciation": "zuo4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "做飯",
-            "pronunciation": "zuo4 fan4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "做事",
-            "pronunciation": "zuo4 shi4",
-            "tags": [
-                "unit1"
-            ]
-        },
-        {
-            "orthography": "昨天",
-            "pronunciation": "zuo2 tian1",
-            "tags": [
-                "unit1",
-                "starter"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "白",
-            "pronunciation": "bai2",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "百貨公司",
-            "pronunciation": "bai3 huo4 gong1 si1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "白天",
-            "pronunciation": "bai2 tian1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "搬",
-            "pronunciation": "ban1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ban4 fa3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bang1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bang1 mang2",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ban1 jia1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bao3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bao1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bao4 jing3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bao1 zi",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bei4",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bei3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ben4",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ben3 lai2",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bi3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bi3 jiao4",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bing4",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bing1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bing1 kuai4",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bing1 xiang1",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "bi4 ye4",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "b",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        },
-        {
-            "orthography": "把",
-            "pronunciation": "ba3",
-            "tags": [
-                "unit2"
-            ]
-        }
-    ]
+  "ch_en": [
+      {
+          "orthography": "愛",
+          "pronunciation": "ai4",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "班",
+          "pronunciation": "ban1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "報",
+          "pronunciation": "bao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "半",
+          "pronunciation": "ban4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "辦",
+          "pronunciation": "ban4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "杯",
+          "pronunciation": "bei1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "本",
+          "pronunciation": "ben3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "杯子",
+          "pronunciation": "bei1 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "筆",
+          "pronunciation": "bi3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "錶",
+          "pronunciation": "biao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "邊",
+          "pronunciation": "bian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "別",
+          "pronunciation": "bie2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "別的",
+          "pronunciation": "bie2 de5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "筆試",
+          "pronunciation": "bi3 shi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "伯伯",
+          "pronunciation": "bo2 bo5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "不",
+          "pronunciation": "bu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "不一定",
+          "pronunciation": "bu4 yi1 ding4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "不錯",
+          "pronunciation": "bu4 cuo4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "菜",
+          "pronunciation": "cai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "差",
+          "pronunciation": "cha1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "茶",
+          "pronunciation": "cha2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "差不多",
+          "pronunciation": "cha4 bu5 duo1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "唱",
+          "pronunciation": "chang4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "常常",
+          "pronunciation": "chang2 chang2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "車",
+          "pronunciation": "che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "吃",
+          "pronunciation": "chi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "穿",
+          "pronunciation": "chuan1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "船",
+          "pronunciation": "chuan2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "床",
+          "pronunciation": "chuang2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "春季",
+          "pronunciation": "chun1 ji4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "從",
+          "pronunciation": "cong2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "春天",
+          "pronunciation": "chun1 tian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "錯",
+          "pronunciation": "cuo4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "大",
+          "pronunciation": "da4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "大樓",
+          "pronunciation": "da4 lou2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "大學",
+          "pronunciation": "da4 xue2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "到",
+          "pronunciation": "dao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "的",
+          "pronunciation": "de5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "得",
+          "pronunciation": "de5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "德國",
+          "pronunciation": "De2 guo2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "等",
+          "pronunciation": "deng3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "地",
+          "pronunciation": "di4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "點",
+          "pronunciation": "dian3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "店",
+          "pronunciation": "dian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "電視",
+          "pronunciation": "dian4 shi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "電視機",
+          "pronunciation": "dian4 shi4 ji1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "電影",
+          "pronunciation": "dian4 ying3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "弟弟",
+          "pronunciation": "di4 di5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "地方",
+          "pronunciation": "di4 fang5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "底下",
+          "pronunciation": "di3 xia5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "懂",
+          "pronunciation": "dong3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "冬季",
+          "pronunciation": "dong1 ji4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "冬天",
+          "pronunciation": "dong1 tian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "東西",
+          "pronunciation": "dong1 xi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "都",
+          "pronunciation": "dou1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "對",
+          "pronunciation": "dui4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "對不起",
+          "pronunciation": "dui4 bu5 qi3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "對了",
+          "pronunciation": "dui4 le5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "多",
+          "pronunciation": "duo1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "多少",
+          "pronunciation": "duo1 shao5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "兒",
+          "pronunciation": "er2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "兒子",
+          "pronunciation": "er2 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "法國",
+          "pronunciation": "Fa3 guo2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "飯",
+          "pronunciation": "fan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "方便",
+          "pronunciation": "fang1 bian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "房間",
+          "pronunciation": "fang2 jian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "飯館",
+          "pronunciation": "fan4 guan3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "房子",
+          "pronunciation": "fang2 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "飯廳",
+          "pronunciation": "fan4 ting1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "法文",
+          "pronunciation": "fa3 wen2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "飛",
+          "pronunciation": "fei1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "飛機",
+          "pronunciation": "fei1 ji1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "分",
+          "pronunciation": "fen1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "風景",
+          "pronunciation": "feng1 jing3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "付",
+          "pronunciation": "fu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "附近",
+          "pronunciation": "fu4 jin4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "父母",
+          "pronunciation": "fu4 mu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "父親",
+          "pronunciation": "fu4 qin5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "該",
+          "pronunciation": "gai1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "剛",
+          "pronunciation": "gang1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "給",
+          "pronunciation": "gei3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "跟",
+          "pronunciation": "gen1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "公車",
+          "pronunciation": "gong1 che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "公共汽車",
+          "pronunciation": "gong1 gong4 qi4 che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "公司",
+          "pronunciation": "gong1 si1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "夠",
+          "pronunciation": "gou4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "狗",
+          "pronunciation": "gou3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "貴",
+          "pronunciation": "gui4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "貴姓",
+          "pronunciation": "gui4 xing4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "國",
+          "pronunciation": "guo2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "國家",
+          "pronunciation": "guo2 jia1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "還",
+          "pronunciation": "hai2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "還好",
+          "pronunciation": "hai2 hao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "還是",
+          "pronunciation": "hai2 shi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "孩子",
+          "pronunciation": "hai2 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "好",
+          "pronunciation": "hao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "號",
+          "pronunciation": "hao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "好幾",
+          "pronunciation": "hao3 ji3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "好久不見",
+          "pronunciation": "hao3 jiu3 bu5 jian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "好看",
+          "pronunciation": "hao3 kan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "好聽",
+          "pronunciation": "hao3 ting1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "喝",
+          "pronunciation": "he1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "很",
+          "pronunciation": "hen3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "後",
+          "pronunciation": "hou4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "後面",
+          "pronunciation": "hou4 mian5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "話",
+          "pronunciation": "hua4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "畫畫",
+          "pronunciation": "hua4 hua4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "畫家",
+          "pronunciation": "hua4 jia1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "華人",
+          "pronunciation": "hua2 ren2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "回",
+          "pronunciation": "hui2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "會",
+          "pronunciation": "hui4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "回來",
+          "pronunciation": "hui2 lai5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "火",
+          "pronunciation": "huo3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "貨",
+          "pronunciation": "huo4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "火車",
+          "pronunciation": "huo3 che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "站",
+          "pronunciation": "zhan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "機",
+          "pronunciation": "ji1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "急",
+          "pronunciation": "ji2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "季",
+          "pronunciation": "ji4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "家",
+          "pronunciation": "jia1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "間",
+          "pronunciation": "jian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "見",
+          "pronunciation": "jian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "件",
+          "pronunciation": "jian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "教",
+          "pronunciation": "jiao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "叫",
+          "pronunciation": "jiao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "覺",
+          "pronunciation": "jue2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "覺",
+          "pronunciation": "jiao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "教書",
+          "pronunciation": "jiao1 shu1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "姐姐",
+          "pronunciation": "jie3 jie5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "節",
+          "pronunciation": "jie2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "節日",
+          "pronunciation": "jie2 ri4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "季節",
+          "pronunciation": "ji4 jie2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "近",
+          "pronunciation": "jin4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "今年",
+          "pronunciation": "jin1 nian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "今天",
+          "pronunciation": "jin1 tian1",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "久",
+          "pronunciation": "jiu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "就",
+          "pronunciation": "jiu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "九",
+          "pronunciation": "jiu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "舊",
+          "pronunciation": "jiu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "酒",
+          "pronunciation": "jiu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "覺得",
+          "pronunciation": "jue2 de5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "開",
+          "pronunciation": "kai1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "開車",
+          "pronunciation": "kai1 che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "看",
+          "pronunciation": "kan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "看到",
+          "pronunciation": "kan4 dao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "看見",
+          "pronunciation": "kan4 jian5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "考",
+          "pronunciation": "kao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "考試",
+          "pronunciation": "kao3 shi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "課",
+          "pronunciation": "ke4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "刻",
+          "pronunciation": "ke4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "客廳",
+          "pronunciation": "ke4 ting1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "可以",
+          "pronunciation": "ke3 yi3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "快",
+          "pronunciation": "kuai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "塊",
+          "pronunciation": "kuai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "來",
+          "pronunciation": "lai2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "老師",
+          "pronunciation": "lao3 shi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "了",
+          "pronunciation": "le5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "累",
+          "pronunciation": "lei3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "冷",
+          "pronunciation": "leng3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "離",
+          "pronunciation": "li2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "兩",
+          "pronunciation": "liang3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "輛",
+          "pronunciation": "liang4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "裡面",
+          "pronunciation": "li3 mian5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "零",
+          "pronunciation": "ling2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "零錢",
+          "pronunciation": "ling2 qian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "六",
+          "pronunciation": "liu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "樓",
+          "pronunciation": "lou2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "路",
+          "pronunciation": "lu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "樓下",
+          "pronunciation": "lou2 xia4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "樓上",
+          "pronunciation": "lou2 shang4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "旅館",
+          "pronunciation": "guan3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "旅行",
+          "pronunciation": "xing2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "嗎",
+          "pronunciation": "ma5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "買",
+          "pronunciation": "mai3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "賣",
+          "pronunciation": "mai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "媽媽",
+          "pronunciation": "ma1 ma5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "慢",
+          "pronunciation": "man4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "忙",
+          "pronunciation": "mang2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "貓",
+          "pronunciation": "mao1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "毛",
+          "pronunciation": "mao2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "馬上",
+          "pronunciation": "ma3 shang4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "沒",
+          "pronunciation": "mei2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "美",
+          "pronunciation": "mei3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "每",
+          "pronunciation": "mei3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "妹妹",
+          "pronunciation": "mei4 mei5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "沒問題",
+          "pronunciation": "mei2 wen4 ti2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "門",
+          "pronunciation": "men2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "面",
+          "pronunciation": "mian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "明天",
+          "pronunciation": "ming2 tian1",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "門口",
+          "pronunciation": "men2 kou3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "明年",
+          "pronunciation": "ming2 nian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "母",
+          "pronunciation": "mu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "母親",
+          "pronunciation": "mu3 qin5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "那",
+          "pronunciation": "na3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "哪裡",
+          "pronunciation": "na3 li5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "難",
+          "pronunciation": "nan2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "呢",
+          "pronunciation": "ne5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "那邊",
+          "pronunciation": "na4 bian5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "那些",
+          "pronunciation": "na4 xie1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "能",
+          "pronunciation": "neng2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "你",
+          "pronunciation": "ni3",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "年",
+          "pronunciation": "nian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "念",
+          "pronunciation": "nian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "念書",
+          "pronunciation": "nian4 shu1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "你們",
+          "pronunciation": "ni3 men5",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "女",
+          "pronunciation": "nü3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "女孩子",
+          "pronunciation": "hai2 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "女朋友",
+          "pronunciation": "peng2 you5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "歐洲",
+          "pronunciation": "Ou5 zhou1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "旁邊",
+          "pronunciation": "pang2 bian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "朋友",
+          "pronunciation": "peng2 you5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "便宜",
+          "pronunciation": "pian2 yi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "票",
+          "pronunciation": "piao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "七",
+          "pronunciation": "qi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "期",
+          "pronunciation": "qi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "千",
+          "pronunciation": "qian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "錢",
+          "pronunciation": "qian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "前",
+          "pronunciation": "qian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "前面",
+          "pronunciation": "qian2 mian5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "汽車",
+          "pronunciation": "qi4 che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "騎車",
+          "pronunciation": "qi2 che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "起床",
+          "pronunciation": "qi3 chuang2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "請",
+          "pronunciation": "qing3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "親",
+          "pronunciation": "qin1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "請問",
+          "pronunciation": "qing3 wen4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "坐",
+          "pronunciation": "zuo4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "座",
+          "pronunciation": "zuo4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "秋季",
+          "pronunciation": "qiu1 ji4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "去",
+          "pronunciation": "qu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "去年",
+          "pronunciation": "qu4 nian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "熱",
+          "pronunciation": "re4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "人",
+          "pronunciation": "ren2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "日本",
+          "pronunciation": "Ri4 ben3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "容易",
+          "pronunciation": "rong2 yi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "三",
+          "pronunciation": "san1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "上",
+          "pronunciation": "shang4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "上班",
+          "pronunciation": "shang4 ban1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "商店",
+          "pronunciation": "shang1 dian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "上課",
+          "pronunciation": "shang4 ke4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "上面",
+          "pronunciation": "shang4 mian5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "上午",
+          "pronunciation": "shang4 wu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "少",
+          "pronunciation": "shao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "誰",
+          "pronunciation": "shei2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "什麼",
+          "pronunciation": "shen2 me5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "什麼時候",
+          "pronunciation": "shen2 me5 shi2 hou5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "生意",
+          "pronunciation": "sheng1 yi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "十",
+          "pronunciation": "shi2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "事",
+          "pronunciation": "shi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "式",
+          "pronunciation": "shi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "時候",
+          "pronunciation": "shi2 hou5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "時間",
+          "pronunciation": "shi2 jian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "書",
+          "pronunciation": "shu1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "書店",
+          "pronunciation": "shu1 dian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "書法",
+          "pronunciation": "shu1 fa3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "書房",
+          "pronunciation": "shu1 fang2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "水",
+          "pronunciation": "shui3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "睡",
+          "pronunciation": "shui4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "睡覺",
+          "pronunciation": "shui4 jiao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "說",
+          "pronunciation": "shuo1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "說話",
+          "pronunciation": "shuo1 hua4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "書桌",
+          "pronunciation": "shu1 zhuo1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "四",
+          "pronunciation": "si4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "所",
+          "pronunciation": "suo3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "所以",
+          "pronunciation": "suo3 yi3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "他",
+          "pronunciation": "ta1",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "她",
+          "pronunciation": "ta1",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "太",
+          "pronunciation": "tai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "臺灣",
+          "pronunciation": "Tai2 wan1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "太太",
+          "pronunciation": "tai4 tai5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "天氣",
+          "pronunciation": "tian1 qi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "跳舞",
+          "pronunciation": "tiao4 wu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "聽",
+          "pronunciation": "ting1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "停",
+          "pronunciation": "ting2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "停車",
+          "pronunciation": "ting2 che1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "聽說",
+          "pronunciation": "ting1 shuo1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "圖書館",
+          "pronunciation": "tu2 shu1 guan3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "外",
+          "pronunciation": "wai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "外國",
+          "pronunciation": "wai4 guo2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "外面",
+          "pronunciation": "wai4 mian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "外文",
+          "pronunciation": "wai4 wen2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "晚",
+          "pronunciation": "wan3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "萬",
+          "pronunciation": "wan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "晚飯",
+          "pronunciation": "wan3 fan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "王",
+          "pronunciation": "Wang2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "晚上",
+          "pronunciation": "wan3 shang5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "玩",
+          "pronunciation": "wan2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "位",
+          "pronunciation": "wei4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "為什麼",
+          "pronunciation": "wei4 shen2 me5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "文",
+          "pronunciation": "wen2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "問",
+          "pronunciation": "wen4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "問題",
+          "pronunciation": "wen4 ti2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "我",
+          "pronunciation": "wo3",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "我們",
+          "pronunciation": "wo3 men5",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "五",
+          "pronunciation": "wu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "午",
+          "pronunciation": "wu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "午飯",
+          "pronunciation": "wu3 fan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "中飯",
+          "pronunciation": "zhong1 fan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "屋子",
+          "pronunciation": "wu1 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "下",
+          "pronunciation": "xia4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "夏季",
+          "pronunciation": "xia4 ji4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "下課",
+          "pronunciation": "xia4 ke4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "下面",
+          "pronunciation": "xia4 mian5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "像片",
+          "pronunciation": "xiang4 pian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "想",
+          "pronunciation": "xiang3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "相機",
+          "pronunciation": "xiang4 ji1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "先生",
+          "pronunciation": "xian1 sheng5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "現在",
+          "pronunciation": "xian4 zai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "小",
+          "pronunciation": "xiao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "小姐",
+          "pronunciation": "xiao3 jie3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "小學",
+          "pronunciation": "xiao3 xue2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "夏天",
+          "pronunciation": "xia4 tian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "下午",
+          "pronunciation": "xia4 wu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "寫",
+          "pronunciation": "xie3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "謝謝",
+          "pronunciation": "xie4 xie5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "寫字",
+          "pronunciation": "xie3 zi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "喜歡",
+          "pronunciation": "xi3 huan5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "新",
+          "pronunciation": "Xin1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "行",
+          "pronunciation": "xing2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "姓",
+          "pronunciation": "xing4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "星期",
+          "pronunciation": "xing1 qi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "新年",
+          "pronunciation": "xin1 nian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "休息",
+          "pronunciation": "xiu1 xi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "學",
+          "pronunciation": "xue2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "學期",
+          "pronunciation": "xue2 qi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "學生",
+          "pronunciation": "xue2 sheng5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "學校",
+          "pronunciation": "xue2 xiao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "要",
+          "pronunciation": "yao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "也",
+          "pronunciation": "ye3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "夜",
+          "pronunciation": "ye4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "夜裡",
+          "pronunciation": "ye4 li5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一",
+          "pronunciation": "yi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "億",
+          "pronunciation": "yi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一點",
+          "pronunciation": "yi1 dian3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一定",
+          "pronunciation": "yi1 ding4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "衣服",
+          "pronunciation": "yi1 fu5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一共",
+          "pronunciation": "yi1 gong4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "已經",
+          "pronunciation": "yi3 jing1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一塊",
+          "pronunciation": "yi1 kuai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "應該",
+          "pronunciation": "ying1 gai1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "英國",
+          "pronunciation": "Ying1 guo2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "英文",
+          "pronunciation": "Ying1 wen2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "因為",
+          "pronunciation": "yin1 wei5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一起",
+          "pronunciation": "yi1 qi3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一下",
+          "pronunciation": "yi1 xia4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "意思",
+          "pronunciation": "yi4 si5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "一些",
+          "pronunciation": "yi1 xie1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "椅子",
+          "pronunciation": "yi3 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "有",
+          "pronunciation": "you3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "有的",
+          "pronunciation": "you3 de5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "有名",
+          "pronunciation": "you3 ming2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "有錢",
+          "pronunciation": "you3 qian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "有一點兒",
+          "pronunciation": "you3 yi1 dian3 r5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "有意思",
+          "pronunciation": "you3 yi4 si5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "雨",
+          "pronunciation": "yu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "遠",
+          "pronunciation": "yuan3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "月",
+          "pronunciation": "yue4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "雨季",
+          "pronunciation": "yu3 ji4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "在",
+          "pronunciation": "zai4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "再見",
+          "pronunciation": "zai4 jian4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "早",
+          "pronunciation": "zao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "早餐",
+          "pronunciation": "zao3 can1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "早上",
+          "pronunciation": "zao3 shang5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "怎麼",
+          "pronunciation": "zen3 me5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "怎麼辦",
+          "pronunciation": "zen3 me5 ban4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "怎麼樣",
+          "pronunciation": "zen3 me5 yang4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "找",
+          "pronunciation": "zhao3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "照",
+          "pronunciation": "zhao4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "著急",
+          "pronunciation": "zhao2 ji2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "找錢",
+          "pronunciation": "zhao3 qian2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "照相機",
+          "pronunciation": "zhao4 xiang4 ji1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "這",
+          "pronunciation": "zhe4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "這邊",
+          "pronunciation": "zhe4 bian1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "這些",
+          "pronunciation": "zhe4 xie1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "這裡",
+          "pronunciation": "zhe4 li3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "真",
+          "pronunciation": "zhen1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "枝",
+          "pronunciation": "zhi1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "知道",
+          "pronunciation": "zhi1 dao5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "種",
+          "pronunciation": "zhong3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "中國",
+          "pronunciation": "Zhong1 guo2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "鐘",
+          "pronunciation": "zhong1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "中秋節",
+          "pronunciation": "Zhong1 qiu1 jie2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "鐘頭",
+          "pronunciation": "zhong1 tou2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "中文",
+          "pronunciation": "Zhong1 wen2",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "中午",
+          "pronunciation": "zhong1 wu3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "住",
+          "pronunciation": "zhu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "桌",
+          "pronunciation": "zhuo1",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "桌子",
+          "pronunciation": "zhuo1 zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "子",
+          "pronunciation": "zi5",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "走",
+          "pronunciation": "zou3",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "走路",
+          "pronunciation": "zou3 lu4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "最",
+          "pronunciation": "zui4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "最近",
+          "pronunciation": "zui4 jin4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "做",
+          "pronunciation": "zuo4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "做飯",
+          "pronunciation": "zuo4 fan4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "做事",
+          "pronunciation": "zuo4 shi4",
+          "tags": [
+              "unit1"
+          ]
+      },
+      {
+          "orthography": "昨天",
+          "pronunciation": "zuo2 tian1",
+          "tags": [
+              "unit1",
+              "starter"
+          ]
+      },
+      {
+          "orthography": "把",
+          "pronunciation": "ba3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "白",
+          "pronunciation": "bai2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "百貨公司",
+          "pronunciation": "bai3 huo4 gong1 si1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "白天",
+          "pronunciation": "bai2 tian1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "搬",
+          "pronunciation": "ban1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "辦法",
+          "pronunciation": "ban4 fa3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "幫",
+          "pronunciation": "bang1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "幫忙",
+          "pronunciation": "bang1 mang2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "搬家",
+          "pronunciation": "ban1 jia1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "鉋",
+          "pronunciation": "bao3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "苞",
+          "pronunciation": "bao1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "報警",
+          "pronunciation": "bao4 jing3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "苞子",
+          "pronunciation": "bao1 zi",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "被",
+          "pronunciation": "bei4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "北",
+          "pronunciation": "bei3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "笨",
+          "pronunciation": "ben4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "本來",
+          "pronunciation": "ben3 lai2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "比",
+          "pronunciation": "bi3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "比較",
+          "pronunciation": "bi3 jiao4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "病",
+          "pronunciation": "bing4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "冰",
+          "pronunciation": "bing1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "冰塊",
+          "pronunciation": "bing1 kuai4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "冰箱",
+          "pronunciation": "bing1 xiang1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "畢業",
+          "pronunciation": "bi4 ye4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "鼻子",
+          "pronunciation": "bi2 zi",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "部",
+          "pronunciation": "bu4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "不必",
+          "pronunciation": "bu4 bi4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "不得了",
+          "pronunciation": "bu4 de2 liao3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "部分",
+          "pronunciation": "bu4 fen4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "不見",
+          "pronunciation": "bu4 jian4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "不客氣",
+          "pronunciation": "bu4 ke4 qi5",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "不用",
+          "pronunciation": "bu4 yong4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "才",
+          "pronunciation": "cai2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "餐",
+          "pronunciation": "can1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "參加",
+          "pronunciation": "can1 jia1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "草",
+          "pronunciation": "cao3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "草地",
+          "pronunciation": "cao3 di4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "叉",
+          "pronunciation": "cha1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "茶會",
+          "pronunciation": "cha2 hui4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "長",
+          "pronunciation": "chang3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "場",
+          "pronunciation": "chang3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "超級市場",
+          "pronunciation": "chao1 ji2 shi4 chang3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "叉子",
+          "pronunciation": "cha1 zi5",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "車房",
+          "pronunciation": "che1 fang2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "陳",
+          "pronunciation": "chen2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "城",
+          "pronunciation": "cheng2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "城市",
+          "pronunciation": "cheng2 shi4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "尺",
+          "pronunciation": "chi3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "出",
+          "pronunciation": "chu1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "窗戶",
+          "pronunciation": "chuang1 hu4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "廚房",
+          "pronunciation": "chu2 fang2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "出來",
+          "pronunciation": "chu1 lai2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "出門",
+          "pronunciation": "chu1 men2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "出去",
+          "pronunciation": "chu1 qu4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "出事",
+          "pronunciation": "chu1 shi4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "次",
+          "pronunciation": "ci4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "聰明",
+          "pronunciation": "cong1 ming2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "從前",
+          "pronunciation": "cong2 qian2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "打",
+          "pronunciation": "da3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "大",
+          "pronunciation": "da4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "打電話",
+          "pronunciation": "da3 dian4 hua4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "打工",
+          "pronunciation": "da3 gong1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "帶",
+          "pronunciation": "dai4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "大概",
+          "pronunciation": "da4 gai4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "戴",
+          "pronunciation": "dai4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "袋子",
+          "pronunciation": "dai4 zi5",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "大家",
+          "pronunciation": "da4 jia1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "蛋",
+          "pronunciation": "dan4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "蛋糕",
+          "pronunciation": "dan4 gao1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "當然",
+          "pronunciation": "dang1 ran2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "當中",
+          "pronunciation": "dang1 zhong1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "刀",
+          "pronunciation": "dao1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "刀叉",
+          "pronunciation": "dao1 cha1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "刀子",
+          "pronunciation": "dao1 zi5",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "打破",
+          "pronunciation": "da3 po4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "打球",
+          "pronunciation": "da3 qiu2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "大人",
+          "pronunciation": "da4 ren2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "打算",
+          "pronunciation": "da3 suan4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "地",
+          "pronunciation": "de4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "得",
+          "pronunciation": "de2",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "燈",
+          "pronunciation": "deng1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "第",
+          "pronunciation": "di4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "點餐",
+          "pronunciation": "dian3 can1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "電話",
+          "pronunciation": "dian4 hua4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "點心",
+          "pronunciation": "dian3 xin1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "電話",
+          "pronunciation": "dian4 hua4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "丟",
+          "pronunciation": "diu1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "地址",
+          "pronunciation": "di4 zhi3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "動",
+          "pronunciation": "dong4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "東",
+          "pronunciation": "dong1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "東部",
+          "pronunciation": "dong1 bu4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "短",
+          "pronunciation": "duan3",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "對",
+          "pronunciation": "dui4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "對面",
+          "pronunciation": "dui4 mian4",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "多",
+          "pronunciation": "duo1",
+          "tags": [
+              "unit2"
+          ]
+      },
+      {
+          "orthography": "餓",
+          "pronunciation": "e4",
+          "tags": [
+              "unit2"
+          ]
+      }
+  ]
 }
