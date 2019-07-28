@@ -4,4 +4,5 @@
       ,{"name":"Unit 2", "id":"unit2", "src":"https://raw.githubusercontent.com/jokandre/vocabulary-datasets/master/unit2.json"}
       ,{"name":"Unit 3", "id":"unit3", "src":"https://raw.githubusercontent.com/jokandre/vocabulary-datasets/master/unit3.json"}
       ,{"name":"Unit 4", "id":"unit4", "src":"https://raw.githubusercontent.com/jokandre/vocabulary-datasets/master/unit4.json"}
+      ,{"name":"Most Frequent", "id":"most-frequent", "src":"https://raw.githubusercontent.com/jokandre/vocabulary-datasets/master/mostfrequent8k.json"}
 ]
